@@ -19,7 +19,7 @@ This repository now serves as an **archival record** of the project’s code and
 
 ## Screenshots
 
-<p align="center"><img src="Screenshots/FMN_FRONTPAGE.png" alt="Front Page" width="700"></p>
+<p align="center"><img src="Screenshots/FMN_FRONTPAGE.png" alt="Front Page" width="600"></p>
 <p align="center"><img src="Screenshots/FMN_FRONTPAGE2.png" alt="Ecosystem Navigation" width="600"></p>
 
 ### Ecosystem Pages
