@@ -19,21 +19,21 @@ This repository now serves as an **archival record** of the project’s code and
 
 ## Screenshots
 
-<p align="center"><img src="Screenshots/FMN_FRONTPAGE.png" alt="Front Page" width="600"></p>
+<p align="center"><img src="Screenshots/FMN_FRONTPAGE.png" alt="Front Page" width="700"></p>
 <p align="center"><img src="Screenshots/FMN_FRONTPAGE2.png" alt="Ecosystem Navigation" width="600"></p>
 
 ### Ecosystem Pages
-<p align="center"><img src="Screenshots/FMN_COASTALSYSTEMS.png" alt="Coastal Systems" width="500"></p>
-<p align="center"><img src="Screenshots/FMN_UPLANDSYSTEMS.png" alt="Upland Systems" width="500"></p>
-<p align="center"><img src="Screenshots/FMN_FRESHWATERSYSTEMS.png" alt="Wetland Systems" width="500"></p>
+<p align="center"><img src="Screenshots/FMN_COASTALSYSTEMS.png" alt="Coastal Systems" width="600"></p>
+<p align="center"><img src="Screenshots/FMN_UPLANDSYSTEMS.png" alt="Upland Systems" width="600"></p>
+<p align="center"><img src="Screenshots/FMN_FRESHWATERSYSTEMS.png" alt="Wetland Systems" width="600"></p>
 
 ### Journal Entries
-<p align="center"><img src="Screenshots/FMN_JOURNALS.png" alt="Journal Overview" width="500"></p>
+<p align="center"><img src="Screenshots/FMN_JOURNALS.png" alt="Journal Overview" width="600"></p>
 <p align="center"><img src="Screenshots/FMN_JOURNALSAMPLE.png" alt="Sample Journal Entry" width="500"></p>
 
 ### Community Feedback
-<p align="center"><img src="Screenshots/FMN_FEEDBACK1.png" alt="Feedback Example 1" width="500"></p>
-<p align="center"><img src="Screenshots/FMN_FEEDBACK2.png" alt="Feedback Example 2" width="500"></p>
+<p align="center"><img src="Screenshots/FMN_FEEDBACK1.png" alt="Feedback Example 1" width="600"></p>
+<p align="center"><img src="Screenshots/FMN_FEEDBACK2.png" alt="Feedback Example 2" width="600"></p>
 
 ---
 
