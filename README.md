@@ -11,7 +11,7 @@ This repository now serves as an **archival record** of the project’s code and
 ## Demo
 <p align="center">
   <a href="https://youtu.be/oxWXwXhF5Sk?si=S1e_2kXTZ1p_hVG1">
-      <img src="https://img.youtube.com/vi/oxWXwXhF5Sk/hqdefault.jpg" width="500" alt="Florida Master Naturalist Gameplay Demo">
+      <img src="https://img.youtube.com/vi/oxWXwXhF5Sk/hqdefault.jpg" width="500" alt="Florida Master Naturalist Demo">
   </a>
 </p>
 
